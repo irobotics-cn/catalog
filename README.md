@@ -66,6 +66,8 @@
 | C1   | xtio | 稳定 | 华硕xtion立体相机(3.5m/仅室内)
 | C2   | real | 有效 | 英特尔realsense-R200立体相机(3.5m/仅室内)
 | C3   | ster | 有效 | 双目ZED立体相机(20m)
+| G4   | jyzk | 有效 | 维特JY-901/MPU9250/GPS惯导模块(9轴/GPS)
+| G5   | jyzk | 有效 | 君悦JY-901/MPU9250/GPS惯导模块(9轴/GPS)
 | G6   | jyzk | 稳定 | 君悦JY-61/MPU6050惯导模块(6轴)
 | G7   | jyzk | 有效 | 君悦JY-901B/MPU9250惯导模块(9轴)
 | G8   | uran | 有效 | 超核6/MPU6050惯导模块(6轴)
