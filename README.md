@@ -62,7 +62,7 @@
 | A2   | aqmd | 有效 | [艾思控6020BLS驱动器](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.14.ikPLgk&id=40349035788&)/[中大Z5BLD200-24GU-30S/5GU-15KB电机减速器(200w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=531085187774)
 | A3   | aqmd | 有效 | [艾思控6030BLS驱动器](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.18.ikPLgk&id=527343077948&)/[中大Z5BLD400-24GU/5GU-5KB电机减速器(400w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521935657506)
 | A4   | aqmd | 有效 | [艾思控6030BLS驱动器](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.18.ikPLgk&id=527343077948&)/[中大Z5BLD400-24GU-M/5GU-36KB电机减速器(400w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521926395578)
-| C0   | kine | 有效 | 微软KINECTt立体相机(3.5m/仅室内)
+| C0   | kine | 有效 | 微软KINECT立体相机(3.5m/仅室内)
 | C1   | xtio | 稳定 | 华硕XTION立体相机(3.5m/仅室内)
 | C2   | real | 有效 | 英特尔REALSENSE-R200立体相机(3.5m/仅室内)
 | C3   | ster | 有效 | 双目ZED立体相机(20m)
