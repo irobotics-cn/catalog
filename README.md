@@ -81,9 +81,9 @@
 | I7   | inte | 可靠 | [英特尔NUC-5i7RYH工控机(i7-5557U)](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-15021568328.19.M25shb&id=45304992800)
 | L1   | slam | 稳定 | [思岚A1激光雷达(6m/仅室内)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-14130416734.15.qutj8h&id=530250208226)
 | L2   | slam | 有效 | [思岚A2激光雷达(6m/仅室内)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-14130416734.12.qutj8h&id=530545450824)
-| L3   | quan | 有效 | 固态S3激光雷达(150m/乱序扫描)
-| L4   | velo | 有效 | 威力登VLP-16激光雷达(150m/16线)
-| L8   | quan | 有效 | 全向M8-1激光雷达(150m/4线)
+| L3   | quan | 有效 | [固态S3激光雷达(150m/乱序扫描)](http://www.quanergy.com/products/)
+| L4   | velo | 有效 | [威力登VLP-16激光雷达(100m/16线)](http://www.velodynelidar.com/vlp-16.html)
+| L8   | quan | 有效 | [全向M8-1激光雷达(150m/4线)](http://www.quanergy.com/products/)
 | R0   | rout | 可靠 | 无线wifi路由器
 | R1   | rech | 待定 | 有线自动充电器
 | R2   | rech | 待定 | 无线自动充电器
