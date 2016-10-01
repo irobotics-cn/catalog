@@ -88,13 +88,13 @@
 | R1   | rech | 待定 | 有线自动充电器
 | R2   | rech | 待定 | 无线自动充电器
 | R3   | rfid | 待定 | 自动进出电梯
-| S0   | sick | 有效 | 西克TIM310激光雷达(4m/仅避障/仅室内)
-| S1   | sick | 可靠 | 西克TIM561激光雷达(10m/仅室内)
-| S2   | sick | 可靠 | 西克LMS111激光雷达(20m)
-| S3   | sick | 可靠 | 西克TIM571激光雷达(25m/仅室内)
-| S4   | sick | 稳定 | 西克LMS141激光雷达(40m)
-| S5   | sick | 可靠 | 西克LMS151激光雷达(50m)
-| S8   | sick | 稳定 | 西克LMS511激光雷达(80m)
+| S0   | sick | 有效 | [西克TIM310激光雷达(4m/仅避障/仅室内)](https://www.sick.com/cn/zh/tim3xx/tim310-1030000/p/p244048)
+| S1   | sick | 可靠 | [西克TIM561激光雷达(10m/仅室内)](https://www.sick.com/cn/zh/tim5xx/tim561-2050101/p/p369446)
+| S2   | sick | 可靠 | [西克LMS111激光雷达(20m)](https://www.sick.com/cn/zh/lms1xx/lms111-10100/p/p109842)
+| S3   | sick | 可靠 | [西克TIM571激光雷达(25m/仅室内)](https://www.sick.com/cn/zh/tim5xx/tim571-2050101/p/p412444)
+| S5   | sick | 稳定 | [西克LMS141激光雷达(40m)](https://www.sick.com/cn/zh/lms1xx/lms141-05100-security-core/p/p389544)
+| S5   | sick | 可靠 | [西克LMS151激光雷达(50m)](https://www.sick.com/cn/zh/lms1xx/lms151-10100/p/p141840)
+| S8   | sick | 稳定 | [西克LMS511激光雷达(80m)](https://www.sick.com/cn/zh/lms5xx/lms511-11100-lite/p/p246747)
 
 ## 定制子类/型号校验(J)
 
