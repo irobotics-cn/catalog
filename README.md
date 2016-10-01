@@ -57,11 +57,11 @@
 
 | 代号 | 简称 | 状态 | 说明
 | ---- | ---- | ---- | ----
-| A0   | aqmd | 可靠 | [艾思控6010BLS驱动器](https://item.taobao.com/item.htm?spm=a1z0k.7385993.1997994373.d4919385.fWGCt2&id=43611304677&_u=t2dmg8j26111)/[中大Z4BLD60-24GN/4GN-30K电机减速器(60w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521925201994)
-| A1   | aqmd | 稳定 | [艾思控6010BLS驱动器](https://item.taobao.com/item.htm?spm=a1z0k.7385993.1997994373.d4919385.fWGCt2&id=43611304677&_u=t2dmg8j26111)/[中大Z5BLD100-24GN/5GU-30KB电机减速器(100w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521938724571)
-| A2   | aqmd | 有效 | [艾思控6020BLS驱动器](https://item.taobao.com/item.htm?spm=a1z0k.7385993.1997994373.d4919385.fWGCt2&id=40349035788&_u=t2dmg8j26111)/[中大Z5BLD200-24GU-30S/5GU-15KB电机减速器(200w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=531085187774)
-| A3   | aqmd | 有效 | [艾思控6030BLS驱动器](https://item.taobao.com/item.htm?spm=a1z0k.7385993.1997994373.d4919385.fWGCt2&id=527343077948&_u=t2dmg8j26111)/[中大Z5BLD400-24GU/5GU-5KB电机减速器(400w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521935657506)
-| A4   | aqmd | 有效 | [艾思控6030BLS驱动器](https://item.taobao.com/item.htm?spm=a1z0k.7385993.1997994373.d4919385.fWGCt2&id=527343077948&_u=t2dmg8j26111)/[中大Z5BLD400-24GU-M/5GU-36KB电机减速器(400w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521926395578)
+| A0   | aqmd | 可靠 | [艾思控6010BLS驱动器](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.10.ikPLgk&id=43611304677&)/[中大Z4BLD60-24GN/4GN-30K电机减速器(60w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521925201994)
+| A1   | aqmd | 稳定 | [艾思控6010BLS驱动器](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.10.ikPLgk&id=43611304677&)/[中大Z5BLD100-24GN/5GU-30KB电机减速器(100w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521938724571)
+| A2   | aqmd | 有效 | [艾思控6020BLS驱动器](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.14.ikPLgk&id=40349035788&)/[中大Z5BLD200-24GU-30S/5GU-15KB电机减速器(200w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=531085187774)
+| A3   | aqmd | 有效 | [艾思控6030BLS驱动器](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.18.ikPLgk&id=527343077948&)/[中大Z5BLD400-24GU/5GU-5KB电机减速器(400w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521935657506)
+| A4   | aqmd | 有效 | [艾思控6030BLS驱动器](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.18.ikPLgk&id=527343077948&)/[中大Z5BLD400-24GU-M/5GU-36KB电机减速器(400w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521926395578)
 | C0   | kine | 有效 | 微软KINECTt立体相机(3.5m/仅室内)
 | C1   | xtio | 稳定 | 华硕XTION立体相机(3.5m/仅室内)
 | C2   | real | 有效 | 英特尔REALSENSE-R200立体相机(3.5m/仅室内)
