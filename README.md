@@ -57,7 +57,7 @@
 
 | 代号 | 简称 | 状态 | 说明
 | ---- | ---- | ---- | ----
-| A0   | aqmd | 可靠 | 艾思控6010BLS驱动器/中大Z4BLD60-24GN/4GN-30K电机减速器(60w)
+| A0   | aqmd | 可靠 | [艾思控6010BLS驱动器/中大Z4BLD60-24GN/4GN-30K电机减速器(60w)](https://item.taobao.com/item.htm?spm=a1z0k.7385993.1997994373.d4919385.fWGCt2&id=43611304677&_u=t2dmg8j26111)
 | A1   | aqmd | 稳定 | 艾思控6010BLS驱动器/中大Z5BLD100-24GN/5GU-30KB电机减速器(100w)
 | A2   | aqmd | 有效 | 艾思控6020BLS驱动器/中大Z5BLD200-24GU-30S/5GU-15KB电机减速器(200w)
 | A3   | aqmd | 有效 | 艾思控6030BLS驱动器/中大Z5BLD400-24GU/5GU-5KB电机减速器(400w)
