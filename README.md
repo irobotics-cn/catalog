@@ -66,6 +66,7 @@
 | C1   | xtio | 稳定 | [华硕XTION立体相机(3.5m/仅室内)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-10586654395.33.1TMZHl&id=44561650295)
 | C2   | real | 有效 | [英特尔REALSENSE-R200立体相机(3.5m/仅室内)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-10586654395.48.1TMZHl&id=45304310641)
 | C3   | ster | 有效 | [双目ZED立体相机(20m)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-10586654395.54.1TMZHl&id=535754347237)
+| E0   | tool | 可靠 | 电气工具/耗材
 | E2   | utek | 有效 | [宇泰UT-8801转换线(usb转232)](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.u1PX70&id=19905046101&ns=1&abbucket=10)
 | E4   | utek | 稳定 | [宇泰UT-891转换线(usb转485/422)](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.i0D3OT&id=27211688588&ns=1&abbucket=10)
 | G4   | jyzk | 有效 | [维特JY-901B/MPU9250/GPS惯导模块(9轴/GPS)](https://item.taobao.com/item.htm?spm=2013.1.0.0.xfyuXv&id=528753863432)
@@ -87,10 +88,12 @@
 | L3   | quan | 有效 | [固态S3激光雷达(150m/乱序扫描)](http://www.quanergy.com/products/)
 | L4   | velo | 有效 | [威力登VLP-16激光雷达(100m/16线)](http://www.velodynelidar.com/vlp-16.html)
 | L8   | quan | 有效 | [全向M8-1激光雷达(150m/4线)](http://www.quanergy.com/products/)
+| M0   | tool | 可靠 | 机械工具/耗材
 | R0   | rout | 可靠 | 无线wifi路由器
 | R1   | rech | 待定 | 有线自动充电器
 | R2   | rech | 待定 | 无线自动充电器
 | R3   | rfid | 待定 | 自动进出电梯
+| T0   | tool | 可靠 | [罗技F710无线手柄](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.ZuXyJi&id=7835436172&ns=1&abbucket=10&skuId=77236990620)
 | S0   | sick | 有效 | [西克TIM310激光雷达(4m/仅避障/仅室内)](https://www.sick.com/cn/zh/tim3xx/tim310-1030000/p/p244048)
 | S1   | sick | 可靠 | [西克TIM561激光雷达(10m/仅室内)](https://www.sick.com/cn/zh/tim5xx/tim561-2050101/p/p369446)
 | S2   | sick | 可靠 | [西克LMS111激光雷达(20m)](https://www.sick.com/cn/zh/lms1xx/lms111-10100/p/p109842)
