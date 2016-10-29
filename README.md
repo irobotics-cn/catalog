@@ -67,6 +67,7 @@
 | C2   | real | 有效 | [英特尔REALSENSE-R200立体相机(3.5m/仅室内)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-10586654395.48.1TMZHl&id=45304310641)
 | C3   | ster | 有效 | [双目ZED立体相机(20m)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-10586654395.54.1TMZHl&id=535754347237)
 | E0   | tool | 可靠 | 电气工具/耗材
+| E1   | tool | 可靠 | 空气开关/急停开关k/z
 | E2   | utek | 有效 | [宇泰UT-8801转换线(usb转232)](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.u1PX70&id=19905046101&ns=1&abbucket=10)
 | E4   | utek | 稳定 | [宇泰UT-891转换线(usb转485/422)](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.i0D3OT&id=27211688588&ns=1&abbucket=10)
 | G4   | jyzk | 有效 | [维特JY-901B/MPU9250/GPS惯导模块(9轴/GPS)](https://item.taobao.com/item.htm?spm=2013.1.0.0.xfyuXv&id=528753863432)
@@ -82,7 +83,6 @@
 | I5   | inte | 可靠 | [英特尔NUC-D54250WYK工控机(i5-4250U)](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-15021568328.19.1hp8qX&id=37602604919)
 | I6   | inte | 可靠 | [英特尔NUC-6i7KYK工控机(i7-6770HQ)](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-15021568328.29.j034JL&id=529495909029)
 | I7   | inte | 可靠 | [英特尔NUC-5i7RYH工控机(i7-5557U)](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-15021568328.19.M25shb&id=45304992800)
-|
 | L1   | slam | 稳定 | [思岚A1激光雷达(6m/仅室内)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-14130416734.15.qutj8h&id=530250208226)
 | L2   | slam | 有效 | [思岚A2激光雷达(6m/仅室内)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-14130416734.12.qutj8h&id=530545450824)
 | L3   | quan | 有效 | [固态S3激光雷达(150m/乱序扫描)](http://www.quanergy.com/products/)
