@@ -72,7 +72,9 @@
 | E0   | tool | 可靠 | 电气工具/耗材
 | E1   | tool | 可靠 | 空气开关/急停开关/自锁开关/复位开关/旋钮开关
 | E2   | utek | 有效 | [宇泰UT-8801转换线(usb转232)](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.u1PX70&id=19905046101&ns=1&abbucket=10)
+| E3   | slzd | 有效 | [深联智达CP2102(usb转ttl)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.WkqyC2&id=521060723445&_u=52rjb5b3bad)
 | E4   | utek | 稳定 | [宇泰UT-891转换线(usb转485/422)](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.i0D3OT&id=27211688588&ns=1&abbucket=10)
+| E7   | tool | 稳定 | 网口交换机/usb集线器hub/延长线/扩展线
 | E8   | tool | 可靠 | 航空插头/连接器/分线器/端子排
 | E9   | tool | 可靠 | 人机交互设备(声/光/电)
 | G4   | jyzk | 有效 | [维特JY-901B/MPU9250/GPS惯导模块(9轴/GPS)](https://item.taobao.com/item.htm?spm=2013.1.0.0.xfyuXv&id=528753863432)
