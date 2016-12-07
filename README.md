@@ -108,6 +108,7 @@
 | T0   | tool | 可靠 | [罗技F710无线手柄](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.ZuXyJi&id=7835436172&ns=1&abbucket=10&skuId=77236990620)
 | T1   | tool | 可靠 | [树莓派2.4G迷你无线鼠标键盘](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.F4TxxK&id=521081934189&_u=f2rjb5b8f3a)
 | T2   | tool | 可靠 | [树莓派7寸通用HDMI触摸屏](https://detail.tmall.com/item.htm?spm=a230r.1.14.4.wq2AXR&id=524214970841&ns=1&abbucket=7)
+| T3   | tool | 可靠 | [金沙滩LA1010逻辑分析仪](https://item.taobao.com/item.htm?spm=a230r.1.14.1.jbvFw4&id=20369792793&ns=1&abbucket=4#detail)
 | S0   | sick | 有效 | [西克TIM310激光雷达(4m/仅避障/仅室内)](https://www.sick.com/cn/zh/tim3xx/tim310-1030000/p/p244048)
 | S1   | sick | 可靠 | [西克TIM561激光雷达(10m/仅室内)](https://www.sick.com/cn/zh/tim5xx/tim561-2050101/p/p369446)
 | S2   | sick | 可靠 | [西克LMS111激光雷达(20m)](https://www.sick.com/cn/zh/lms1xx/lms111-10100/p/p109842)
