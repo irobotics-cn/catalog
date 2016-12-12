@@ -99,6 +99,7 @@
 | M1   | tool | 稳定 | 联轴器/法兰
 | M2   | tool | 稳定 | 轴承
 | M9   | tool | 稳定 | 机械扩展设备(升降销/牵引挂钩)
+| O1   | siem | 稳定 | [天士凯US-100超声测距模块(带温补)](https://detail.tmall.com/item.htm?spm=a1z0d.6639537.1997196601.4.CoY8e6&id=41286604193)
 | P1   | siem | 稳定 | [西门子S7-200SMART/SR20模块(PLC)](https://item.taobao.com/item.htm?spm=a230r.1.14.1.6d5u0E&id=537405774390&ns=1&abbucket=10#detail)
 | P2   | siem | 稳定 | [西门子S7-200CN/224XP模块(PLC)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.F4TxxK&id=12568845358&_u=f2rjb5be16f)
 | R0   | rout | 可靠 | 无线wifi路由器
