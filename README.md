@@ -33,7 +33,7 @@
 
 | 代号 | 简称 | 状态 | 说明
 | ---- | ---- | ---- | ----
-| 10   | 1.0m | 稳定 | R10=0.8m*0.6m
+| 10   | 1.0m | 可靠 | R10=0.8m*0.6m
 
 ## 载重(23)
 
@@ -41,7 +41,7 @@
 
 | 代号 | 简称 | 状态 | 说明
 | ---- | ---- | ---- | ----
-| 01   | 0.1t | 稳定 | 01F=背负0.1t
+| 01   | 0.1t | 可靠 | 01F=背负0.1t
 
 ## 附属功能(C)
 
@@ -60,7 +60,7 @@
 | 代号 | 简称 | 状态 | 说明
 | ---- | ---- | ---- | ----
 | A0   | aqmd | 可靠 | [艾思控6010BLS驱动器(10A)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.10.ikPLgk&id=43611304677&)/[中大Z4BLD60-24GN/4GN-30K电机减速器(60w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521925201994)
-| A1   | aqmd | 稳定 | [艾思控6010BLS驱动器(10A)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.10.ikPLgk&id=43611304677&)/[中大Z5BLD100-24GN/5GU-30KB电机减速器(100w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521938724571)
+| A1   | aqmd | 可靠 | [艾思控6010BLS驱动器(10A)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.10.ikPLgk&id=43611304677&)/[中大Z5BLD100-24GN/5GU-30KB电机减速器(100w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521938724571)
 | A2   | aqmd | 有效 | [艾思控6020BLS驱动器(20A)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.14.ikPLgk&id=40349035788&)/[中大Z5BLD200-24GU-30S/5GU-15KB电机减速器(200w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=531085187774)
 | A3   | aqmd | 有效 | [艾思控6030BLS驱动器(30A)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.18.ikPLgk&id=527343077948&)/[中大Z5BLD400-24GU/5GU-5KB电机减速器(400w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521935657506)
 | A4   | aqmd | 有效 | [艾思控6030BLS驱动器(30A)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.18.ikPLgk&id=527343077948&)/[中大Z5BLD400-24GU-M/5GU-36KB电机减速器(400w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521926395578)
@@ -71,16 +71,16 @@
 | C3   | ster | 有效 | [双目ZED立体相机(20m)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-10586654395.54.1TMZHl&id=535754347237)
 | E0   | tool | 可靠 | 电气工具/耗材
 | E1   | tool | 可靠 | 空气开关/急停开关/自锁开关/复位开关/旋钮开关
-| E2   | utek | 有效 | [宇泰UT-8801转换线(usb转232)](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.u1PX70&id=19905046101&ns=1&abbucket=10)
-| E3   | slzd | 有效 | [深联智达CP2102(usb转ttl)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.WkqyC2&id=521060723445&_u=52rjb5b3bad)
-| E4   | utek | 稳定 | [宇泰UT-891转换线(usb转485/422)](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.i0D3OT&id=27211688588&ns=1&abbucket=10)
-| E7   | tool | 稳定 | 网口交换机/usb集线器hub/延长线/扩展线
+| E2   | utek | 稳定 | [宇泰UT-8801转换线(usb转232)](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.u1PX70&id=19905046101&ns=1&abbucket=10)
+| E3   | slzd | 可靠 | [深联智达CP2102转换线(usb转ttl)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.WkqyC2&id=521060723445&_u=52rjb5b3bad)
+| E4   | utek | 可靠 | [宇泰UT-891转换线(usb转485/422)](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.i0D3OT&id=27211688588&ns=1&abbucket=10)
+| E7   | tool | 可靠 | 网口交换机/usb集线器hub/延长线/扩展线
 | E8   | tool | 可靠 | 航空插头/连接器/分线器/端子排
 | E9   | tool | 可靠 | 人机交互设备(声/光/电)
 | G4   | jyzk | 有效 | [维特JY-901B/MPU9250/GPS惯导模块(9轴/GPS)](https://item.taobao.com/item.htm?spm=2013.1.0.0.xfyuXv&id=528753863432)
 | G5   | jyzk | 有效 | [君悦JY-901B/MPU9250/GPS惯导模块(9轴/GPS)](https://item.taobao.com/item.htm?spm=2013.1.0.0.xfyuXv&id=520651228572)
-| G6   | jyzk | 稳定 | [君悦JY-61/MPU6050惯导模块(6轴)](https://item.taobao.com/item.htm?spm=2013.1.0.0.jqJ8EB&id=520648845395&scm=1007.10115.11446.100200300000000&pvid=98cf8d80-e8ac-4d1f-864d-a7623449a006)
-| G7   | jyzk | 有效 | [君悦JY-901B/MPU9250惯导模块(9轴)](https://item.taobao.com/item.htm?spm=2013.1.0.0.jqJ8EB&id=42861201221&scm=1007.10115.11446.100200300000000&pvid=869e2471-f413-4fff-a540-a2219dbe83d2)
+| G6   | jyzk | 有效 | [君悦JY-61/MPU6050惯导模块(6轴)](https://item.taobao.com/item.htm?spm=2013.1.0.0.jqJ8EB&id=520648845395&scm=1007.10115.11446.100200300000000&pvid=98cf8d80-e8ac-4d1f-864d-a7623449a006)
+| G7   | jyzk | 稳定 | [君悦JY-901/MPU9250惯导模块(9轴)](https://item.taobao.com/item.htm?spm=2013.1.0.0.jqJ8EB&id=42861201221&scm=1007.10115.11446.100200300000000&pvid=869e2471-f413-4fff-a540-a2219dbe83d2)=
 | G8   | uran | 有效 | [超核6/MPU6050惯导模块(6轴)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-11186056617.30.OuVeRx&id=26915396185)
 | G9   | uran | 有效 | [超核9/MPU9250惯导模块(9轴)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-11186056617.12.OuVeRx&id=10036936488)
 | H0   | hoku | 有效 | [北阳UST-05LN/LA激光雷达(4m/仅避障/仅室内)](http://www.hokuyo-aut.jp/02sensor/07scanner/ust_05ln_05la.html)
@@ -91,7 +91,7 @@
 | I6   | inte | 可靠 | [英特尔NUC-6i7KYK工控机(i7-6770HQ)](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-15021568328.29.j034JL&id=529495909029)
 | I7   | inte | 可靠 | [英特尔NUC-5i7RYH工控机(i7-5557U)](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-15021568328.19.M25shb&id=45304992800)
 | L1   | slam | 稳定 | [思岚A1激光雷达(6m/仅室内)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-14130416734.15.qutj8h&id=530250208226)
-| L2   | slam | 有效 | [思岚A2激光雷达(6m/仅室内)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-14130416734.12.qutj8h&id=530545450824)
+| L2   | slam | 稳定 | [思岚A2激光雷达(6m/仅室内)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-14130416734.12.qutj8h&id=530545450824)
 | L3   | quan | 有效 | [固态S3激光雷达(150m/乱序扫描)](http://www.quanergy.com/products/)
 | L4   | velo | 有效 | [威力登VLP-16激光雷达(100m/16线)](http://www.velodynelidar.com/vlp-16.html)
 | L8   | quan | 有效 | [全向M8-1激光雷达(150m/4线)](http://www.quanergy.com/products/)
