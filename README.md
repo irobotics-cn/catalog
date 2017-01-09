@@ -80,7 +80,7 @@
 | G4   | jyzk | 有效 | [维特JY-901B/MPU9250/GPS惯导模块(9轴/GPS)](https://item.taobao.com/item.htm?spm=2013.1.0.0.xfyuXv&id=528753863432)
 | G5   | jyzk | 有效 | [君悦JY-901B/MPU9250/GPS惯导模块(9轴/GPS)](https://item.taobao.com/item.htm?spm=2013.1.0.0.xfyuXv&id=520651228572)
 | G6   | jyzk | 有效 | [君悦JY-61/MPU6050惯导模块(6轴)](https://item.taobao.com/item.htm?spm=2013.1.0.0.jqJ8EB&id=520648845395&scm=1007.10115.11446.100200300000000&pvid=98cf8d80-e8ac-4d1f-864d-a7623449a006)
-| G7   | jyzk | 稳定 | [君悦JY-901/MPU9250惯导模块(9轴)](https://item.taobao.com/item.htm?spm=2013.1.0.0.jqJ8EB&id=42861201221&scm=1007.10115.11446.100200300000000&pvid=869e2471-f413-4fff-a540-a2219dbe83d2)=
+| G7   | jyzk | 稳定 | [君悦JY-901/MPU9250惯导模块(9轴)](https://item.taobao.com/item.htm?spm=2013.1.0.0.jqJ8EB&id=42861201221&scm=1007.10115.11446.100200300000000&pvid=869e2471-f413-4fff-a540-a2219dbe83d2)
 | G8   | uran | 有效 | [超核6/MPU6050惯导模块(6轴)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-11186056617.30.OuVeRx&id=26915396185)
 | G9   | uran | 有效 | [超核9/MPU9250惯导模块(9轴)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-11186056617.12.OuVeRx&id=10036936488)
 | H0   | hoku | 有效 | [北阳UST-05LN/LA激光雷达(4m/仅避障/仅室内)](http://www.hokuyo-aut.jp/02sensor/07scanner/ust_05ln_05la.html)
