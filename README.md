@@ -61,7 +61,7 @@
 | ---- | ---- | ---- | ----
 | A0   | aqmd | 可靠 | [艾思控6010BLS驱动器(10A)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.10.ikPLgk&id=43611304677&)/[中大Z4BLD60-24GN/4GN-30K电机减速器(60w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521925201994)
 | A1   | aqmd | 可靠 | [艾思控6010BLS驱动器(10A)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.10.ikPLgk&id=43611304677&)/[中大Z5BLD100-24GN/5GU-30KB电机减速器(100w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521938724571)
-| A2   | aqmd | 有效 | [艾思控6020BLS驱动器(20A)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.14.ikPLgk&id=40349035788&)/[中大Z5BLD200-24GU-30S/5GU-15KB电机减速器(200w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=531085187774)
+| A2   | aqmd | 有效 | [艾思控6020BLS驱动器(20A)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.14.ikPLgk&id=40349035788&)/[中大Z5BLD200-24GU/5GU-30KB电机减速器(200w)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bWUUR2&id=521938034480&_u=i2rjb5be404)
 | A3   | aqmd | 有效 | [艾思控6030BLS驱动器(30A)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.18.ikPLgk&id=527343077948&)/[中大Z5BLD400-24GU/5GU-5KB电机减速器(400w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521935657506)
 | A4   | aqmd | 有效 | [艾思控6030BLS驱动器(30A)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w1017-1832298033.18.ikPLgk&id=527343077948&)/[中大Z5BLD400-24GU-M/5GU-36KB电机减速器(400w)](https://item.taobao.com/item.htm?spm=2013.1.w4023-15046185396.4.cg7mWB&id=521926395578)
 | B0   | batt | 可靠 | 电池(待分类)
@@ -114,7 +114,7 @@
 | S1   | sick | 可靠 | [西克TIM561激光雷达(10m/仅室内)](https://www.sick.com/cn/zh/tim5xx/tim561-2050101/p/p369446)
 | S2   | sick | 可靠 | [西克LMS111激光雷达(20m)](https://www.sick.com/cn/zh/lms1xx/lms111-10100/p/p109842)
 | S3   | sick | 可靠 | [西克TIM571激光雷达(25m/仅室内)](https://www.sick.com/cn/zh/tim5xx/tim571-2050101/p/p412444)
-| S5   | sick | 稳定 | [西克LMS141激光雷达(40m)](https://www.sick.com/cn/zh/lms1xx/lms141-05100-security-core/p/p389544)
+| S4   | sick | 稳定 | [西克LMS141激光雷达(40m)](https://www.sick.com/cn/zh/lms1xx/lms141-05100-security-core/p/p389544)
 | S5   | sick | 可靠 | [西克LMS151激光雷达(50m)](https://www.sick.com/cn/zh/lms1xx/lms151-10100/p/p141840)
 | S8   | sick | 稳定 | [西克LMS511激光雷达(80m)](https://www.sick.com/cn/zh/lms5xx/lms511-11100-lite/p/p246747)
 
